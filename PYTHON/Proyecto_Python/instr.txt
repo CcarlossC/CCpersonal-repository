@@ -1,0 +1,11 @@
+FlIES CATCHER ! Es un juego donde tendrás que demostrar tu habilidad y
+destreza para perseguir al objetivo sin que ningún obstáculo te
+pueda encontrar antes.Si tocas algún obstáculo o el borde blanco,
+será tu GAME OVER pero si logras que la rana obtenga más y más moscas
+irás obteniendo un mayor puntaje que se mostrará al lado superior 
+derecho de la pantalla incrementando la dificultad del juego.
+Ayuda a la rana a poder alimentarse ! 
+
+-> Con la flecha del teclado > , la rana gira en sentido horario
+-> Con la flecha del teclado <, la rana gira en sentido antihorario
+-> Con la flecha del teclado ^ la rana aumenta de velocidad
